@@ -1,0 +1,125 @@
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\appsettings.json
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\tsapi.exe
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\tsapi.deps.json
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\tsapi.runtimeconfig.json
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\tsapi.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\tsapi.pdb
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\libssl-3-x64.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-3.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\libssl-3.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.csproj.AssemblyReference.cache
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.AssemblyInfoInputs.cache
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.AssemblyInfo.cs
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.csproj.CoreCompileInputs.cache
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\staticwebassets\msbuild.tsapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\staticwebassets\msbuild.build.tsapi.props
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tsapi.props
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tsapi.props
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\scopedcss\bundle\tsapi.styles.css
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.csproj.CopyComplete
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\refint\tsapi.dll
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.pdb
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\tsapi.genruntimeconfig.cache
+C:\Users\SW User\source\repos\tsapi\tsapi\obj\Debug\net6.0\ref\tsapi.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\appsettings.Development.json
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\appsettings.json
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\tsapi.exe
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\tsapi.deps.json
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\tsapi.runtimeconfig.json
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\tsapi.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\tsapi.pdb
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Confluent.Kafka.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.csproj.AssemblyReference.cache
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.GeneratedMSBuildEditorConfig.editorconfig
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.AssemblyInfoInputs.cache
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.AssemblyInfo.cs
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.csproj.CoreCompileInputs.cache
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.MvcApplicationPartsAssemblyInfo.cs
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.MvcApplicationPartsAssemblyInfo.cache
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\staticwebassets.build.json
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\staticwebassets.development.json
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\scopedcss\bundle\tsapi.styles.css
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.csproj.CopyComplete
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\refint\tsapi.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.pdb
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\tsapi.genruntimeconfig.cache
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\obj\Debug\net6.0\ref\tsapi.dll
+E:\SHANUKA\Synpulse API Assessment\tsapi\tsapi\tsapi\bin\Debug\net6.0\Helper\Users.json

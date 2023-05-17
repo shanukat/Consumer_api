@@ -1,0 +1,24 @@
+{
+  "UserList": [
+    {
+      "UniqueIdentityKey": "N7245344",
+      "FirstName": "Shanuka",
+      "LastName": "Perera",
+      "Email": "shanukato@gmail.com"
+    },
+
+    {
+      "UniqueIdentityKey": "N723534473423",
+      "FirstName": "Gayani",
+      "LastName": "Chathurika",
+      "Email": "sgayani@gmail.com"
+    },
+    {
+      "UniqueIdentityKey": "P0123456789",
+      "FirstName": "Rehansa",
+      "LastName": "Vinuthi",
+      "Email": "rehavinu@gmail.com"
+    }
+
+  ]
+}
